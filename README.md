@@ -1,6 +1,6 @@
 # README
 
-Davide Merola
+**Davide Merola**
 
 Portfolio - About Me
 
